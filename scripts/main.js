@@ -7,7 +7,7 @@ subtitle.innerText = "Todos tus platos favoritos";
 var h4s = document.querySelectorAll("h4");
 var h5s = document.querySelectorAll("h5");
 
-var com1 = document.getElementById("com1");
+//var com1 = document.getElementById("com1");
 
 var counth4 = 1;
 var counth5 = 1;
