@@ -35,8 +35,8 @@ com4.innerHTML = com4.innerText.concat(" Puré de papas") ;
 com5.innerHTML = com5.innerText.concat(" Ensalada") ;
 com6.innerHTML = com6.innerText.concat(" Papas asadas") ;
 com7.innerHTML = com7.innerText.concat(" Porotos con huevo") ;
-var com7 = document.getElementById("com7");
+/* var com7 = document.getElementById("com7");*/
 com7.innerText = "Sopaipas";
 var desc7 = document.getElementById("desc7");
-desc7.innerText = "La sopaipilla es un tipo de fritura hecha a partir de una masa de harina de trigo frita en aceite o manteca de cerdo.";
+desc7.innerText = "La sopaipilla es un tipo de fritura hecha a partir de una masa de harina de trigo frita en aceite o manteca de cerdo."; 
 
